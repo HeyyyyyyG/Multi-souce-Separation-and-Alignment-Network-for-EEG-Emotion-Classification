@@ -29,4 +29,5 @@ Usage
 In the directory of code:
 
 python ./mssan.py		run on cpu
+
 python ./mssan_cuda.py	run on gpu
